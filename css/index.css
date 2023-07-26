@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anuphan:wght@300;400&family=Corben:wght@400;700&family=Courgette&family=Dosis:wght@200;300;400;500;600;700&family=Inter:wght@200;300;400;500;700;800&family=Jost:wght@200;300;400;500&family=Kanit:wght@200;300;400&family=Kaushan+Script&family=Khula:wght@300;400;600;700&family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Mulish:wght@200;300;400;500&family=Nunito:wght@300;500;600;700;800&family=Open+Sans:wght@300;400;500;600&family=Patrick+Hand&family=Patua+One&family=Poppins:ital,wght@0,100;0,400;0,600;1,100;1,300;1,500&family=Prata&family=Rajdhani:wght@300;400;600;700&family=Raleway:wght@300;400;500&family=Roboto+Slab:wght@400;800&family=Russo+One&family=Ubuntu:wght@300;400;500;700&family=Victor+Mono:wght@100;200;300;400;600;700&display=swap');
+
+*{
+    margin: 0;padding: 0;
+    text-transform: capitalize;
+    box-sizing: border-box;
+    /* font-family: 'Kaushan Script', cursive; */
+}
+
+:root{
+    --blue:#56B6C4;
+}
+
+.font{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.logo{
+    color: var(--blue);
+}
+
+#btn{
+    background-color: var(--blue);
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+
+.about h1{
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+.card-body img{
+min-width: 50%;
+max-height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
